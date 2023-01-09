@@ -17,3 +17,4 @@ The Point of Normalizing a Database is To Reduce Repitition Which In Turn Disk S
 **::some_type** Change One Type To Another  
 **The First Rule:**
 >dates are always a source of pain.
+Star Schema  
