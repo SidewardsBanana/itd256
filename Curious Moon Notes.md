@@ -2,14 +2,14 @@
 
 ## Transit
 
-**Primary Key**  
+**Primary Key** Also Called PK  
 **Auto-Incrementing**  
 **drop if exists** statement every time you run a create statement  
-**Delimeter**  
-**Normalize**  
+**DELIMETER**  
+**NORMALIZE**  
 **${CURDIR}** is The Current Working Directory  
-**All** Target Invokes psql  
-**Make clean && ____**  
+**ALL** Target Invokes psql  
+**make clean && ____**  
 
 ## In Orbit
 
@@ -18,4 +18,4 @@ The Point of Normalizing a Database is To Reduce Repitition Which In Turn Disk S
 **The First Rule:**
 >dates are always a source of pain.
 Star Schema  
-**Timestamptz** is a Timestamp With Time Zone  
+**timestamptz** is a Timestamp With Time Zone  
