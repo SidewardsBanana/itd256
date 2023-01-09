@@ -18,3 +18,4 @@ The Point of Normalizing a Database is To Reduce Repitition Which In Turn Disk S
 **The First Rule:**
 >dates are always a source of pain.
 Star Schema  
+**Timestamptz** is a Timestamp With Time Zone  
