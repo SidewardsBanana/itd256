@@ -13,6 +13,7 @@
 
 ## In Orbit
 
+The Point of Normalizing a Database is To Reduce Repitition Which In Turn Disk Space  
 **::some_type** Change One Type To Another  
 **The First Rule:**
 >dates are always a source of pain.
