@@ -1,4 +1,4 @@
-# Notes
+# Curious Moon Notes
 
 ## Transit
 
