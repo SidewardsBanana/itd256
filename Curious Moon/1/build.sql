@@ -12,4 +12,5 @@ create table master_plan(
   description text
 );
 
-COPY master_plan FROM 'home/jfallon/master_plan.csv' WITH DELIMITER ',' HEADER CSV;
+COPY master_plan
+FROM '/home/jfallon/master_plan.csv' WITH DELIMITER ',' HEADER CSV;
