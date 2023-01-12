@@ -13,7 +13,7 @@ create table master_plan(
 );
 
 COPY master_plan 
-FROM 'C:\Users\jlxfa\OneDrive\cassini_data\curious_data\data\master_plan.csv' 
+FROM 'home/jfallon/master_plan.csv' 
 WITH DELIMITER ',' HEADER CSV;
 
 /* with a schema 
