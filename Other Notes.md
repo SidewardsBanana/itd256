@@ -2,20 +2,20 @@
 
 ## What Is SQL | Simple Terms  
 
-**SQL** Stands For Structured Query Language | It Is A Language That We Will Use To Talk To Our Database Which For Us Is Postgresql  
+***SQL*** Stands For Structured Query Language | It Is A Language That We Will Use To Talk To Our Database Which For Us Is Postgresql  
 
 ## What Is A Database | Simple Terms
 
-**DataBase** Is A Structured Set of Data  
+***DataBase*** Is A Structured Set of Data  
 
 ## Brief History Of SQL  
 
-**SEQUEL** Was SQLs Original Name and Stood For **Structured English Query Language** Which Was Made In 1974 | Two People That Worked At IBM Named Donald D. Chamberlin and Raymond F. Boyce Made It Based On SQUARE and Got The Idea From E.F. Codd's 1970 Publication On Relational Databases Called:
+***SEQUEL*** Was SQLs Original Name and Stood For **Structured English Query Language** Which Was Made In 1974 | Two People That Worked At IBM Named Donald D. Chamberlin and Raymond F. Boyce Made It Based On SQUARE and Got The Idea From E.F. Codd's 1970 Publication On Relational Databases Called:
 >A Relational Model of Data for Large Shared Data Banks.  
 
 There Was A Trademark Issue On The Acronym SEQUEL So They Changed It To Structured Query Language Also Called SQL
 
 ## Declarative vs Imperative
 
-**Declarative** Could Be Referred To As What Will Happen | Don't Know How It Will Happen | Give Me This | Ex: Make Me A Grilled Cheese With Tomato | Happens Behind The Scenes
-**Imperative** Could Be Referred To As How It Will Happen | Do This - Then That - Then This | Ex: You Say To Slice The Bread - Add The Cheese - Add The Tomato - Then Grill It | Know Whats Happening  
+***Declarative*** Could Be Referred To As What Will Happen | Don't Know How It Will Happen | Give Me This | Ex: Make Me A Grilled Cheese With Tomato | Happens Behind The Scenes  
+***Imperative*** Could Be Referred To As How It Will Happen | Do This - Then That - Then This | Ex: You Say To Slice The Bread - Add The Cheese - Add The Tomato - Then Grill It | Know Whats Happening  
