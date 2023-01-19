@@ -2,8 +2,8 @@ DB=jlf_enceladus
 BUILD=${CURDIR}/build.sql
 SCRIPTS=${CURDIR}/scripts
 CSV='${CURDIR}/home/jfallon/master_plan.csv
-MASTER=$(SCRIPTS)/import.sql
-NORMALIZE = $(SCRIPTS)/normalize.sql 
+MASTER=$(CURDIR)/import.sql
+NORMALIZE = $(CURDIR)/normalize.sql 
 
 all: normalize
 	psql $(DB) -f $(BUILD)
