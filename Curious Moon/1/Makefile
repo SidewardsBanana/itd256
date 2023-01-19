@@ -1,4 +1,4 @@
-DB=enceladus
+DB=jlf_enceladus
 BUILD=${CURDIR}/build.sql
 SCRIPTS=${CURDIR}/scripts
 CSV='${CURDIR}/home/jfallon/master_plan.csv
