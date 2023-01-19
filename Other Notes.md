@@ -14,3 +14,5 @@
 >A Relational Model of Data for Large Shared Data Banks.  
 
 There Was A Trademark Issue On The Acronym SEQUEL So They Changed It To Structured Query Language Also Called SQL
+
+## Declarative vs Imperative
