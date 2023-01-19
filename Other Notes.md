@@ -36,3 +36,20 @@ There Was A Trademark Issue On The Acronym **SEQUEL** So They Changed It To **St
 **SQL** Is Declarative  
 **Java** Is Imperative  
 **Python** Can Be Both Declarative and Imperative  
+
+## Database Model  
+
+A Way To Organize and Store Your Data **But** Does So Much More  
+
+***Database Model Examples***  
+
+- Hierarchical
+- Networking
+- Entity-Relationship
+- ***Relational***
+- object Oriented
+- Flat
+- Semi-Structured
+- **Many More**
+
+***Relational*** One of The Most Popular and Widely Used Models Out There
