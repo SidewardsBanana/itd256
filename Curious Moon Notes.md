@@ -9,7 +9,7 @@ drop table if exists master_plan;
 create table master_plan(  
     *STUFF*  
 )  
-***DELIMETER***  Ex: ","    
+***DELIMETER***  Ex: ","  
 ***${CURDIR}*** Is The **Current Working Directory**  
 ***ALL*** Target Invokes psql  
 ***make clean && ____***  
