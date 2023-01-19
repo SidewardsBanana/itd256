@@ -17,5 +17,14 @@ There Was A Trademark Issue On The Acronym SEQUEL So They Changed It To Structur
 
 ## Declarative vs Imperative
 
-***Declarative*** Could Be Referred To As What Will Happen | Don't Know How It Will Happen | Give Me This | Ex: Make Me A Grilled Cheese With Tomato | Happens Behind The Scenes  
-***Imperative*** Could Be Referred To As How It Will Happen | Do This - Then That - Then This | Ex: You Say To Slice The Bread - Add The Cheese - Add The Tomato - Then Grill It | Know Whats Happening  
+***Declarative*** Could Be Referred To As What Will Happen
+
+- Don't Know How It Will Happen
+- Ex: Make Me A Grilled Cheese With Tomato
+- Happens Behind The Scenes
+
+***Imperative*** Could Be Referred To As How It Will Happen
+
+- Do This - Then That - Then This
+- Ex: You Say To Slice The Bread - Add The Cheese - Add The Tomato - Then Grill It
+- Know Whats Happening
