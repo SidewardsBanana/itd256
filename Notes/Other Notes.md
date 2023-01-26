@@ -58,4 +58,6 @@ A Child Can Only Have One Parent But The Parnet Can Have Multiple Children
 One To Many Realtionships
 ![Hierarchial](Tree.png)
 **Networking Model** Expanded On The **Hierarchical Model** Allowing **Many To Many Relationships**  
+Child Can Have Multiple Parents  
+![Networking](Tree2.png)  
 ***Relational*** One of The Most Popular and Widely Used Models Out There
