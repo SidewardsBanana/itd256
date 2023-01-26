@@ -57,5 +57,5 @@ Concept of Parent Child
 A Child Can Only Have One Parent But The Parnet Can Have Multiple Children  
 One To Many Realtionships
 ![Hierarchial](Tree.png)
-**Networking Model**
+**Networking Model** Expanded On The **Hierarchical Model** Allowing **Many To Many Relationships**  
 ***Relational*** One of The Most Popular and Widely Used Models Out There
