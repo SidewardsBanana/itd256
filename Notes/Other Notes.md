@@ -27,6 +27,10 @@ There Was A Trademark Issue On The Acronym **SEQUEL** So They Changed It To **St
 - Powerful In Simplicity and Can Be More Productive
 - Functional or Logic Programming  
 
+![Declarative](Declarative.png)  
+Uses The **sum** Function To Get The Results  
+Does Not Outline The Steps  
+
 ***Imperative*** Could Be Referred To As How It Will Happen
 
 - Do This - Then That - Then This
@@ -34,6 +38,9 @@ There Was A Trademark Issue On The Acronym **SEQUEL** So They Changed It To **St
 - Know Whats Happening
 - More Flexability and Power But Can Get More Complicated
 - OOP, Procedural, or Structured Programming
+
+![Imperative](Imperative.png)  
+Follows A Step By Step Process Using A Loop That Iterates Through The List
 
 **SQL** Is Declarative  
 **Java** Is Imperative  
