@@ -52,5 +52,7 @@ A Way To Organize and Store Your Data **But** Does So Much More
 - Semi-Structured
 - **Many More**
 
-**Hierarchical** Stores Data In A Tree Like Structure
+**Hierarchical** Stores Data In A Tree Like Structure  
+Concept of Parent Child
+![Hierarchial](Tree.png)
 ***Relational*** One of The Most Popular and Widely Used Models Out There
