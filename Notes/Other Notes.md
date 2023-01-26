@@ -27,10 +27,6 @@ There Was A Trademark Issue On The Acronym **SEQUEL** So They Changed It To **St
 - Powerful In Simplicity and Can Be More Productive
 - Functional or Logic Programming  
 
-![Declarative](Declarative.png)  
-Uses The **sum** Function To Get The Results  
-Does Not Outline The Steps  
-
 ***Imperative*** Could Be Referred To As How It Will Happen
 
 - Do This - Then That - Then This
@@ -39,12 +35,20 @@ Does Not Outline The Steps
 - More Flexability and Power But Can Get More Complicated
 - OOP, Procedural, or Structured Programming
 
-![Imperative](Imperative.png)  
-Follows A Step By Step Process Using A Loop That Iterates Through The List
+**SQL** Is **Declarative**  
+For Example `SELECT * FROM _____`  
 
-**SQL** Is Declarative  
-**Java** Is Imperative  
-**Python** Can Be Both Declarative and Imperative  
+**Java** Is **Imperative**  
+
+**Python** Can Be **Both** Declarative and Imperative  
+**Example of Declarative:**  
+![Declarative](Declarative.png)  
+Uses The **sum** Function To Get The Results  
+Does **Not** Outline The Steps  
+
+**Example of Imperative**  
+![Imperative](Imperative.png)  
+Follows A **Step By Step** Process Using A  **Loop** That Iterates Through The List  
 
 ## Database Model  
 
@@ -52,8 +56,8 @@ A Way To Organize and Store Your Data **But** Does So Much More
 
 ***Database Model Examples***  
 
-- Hierarchical
-- Networking
+- **Hierarchical**
+- **Networking**
 - Entity-Relationship
 - ***Relational***
 - object Oriented
@@ -66,7 +70,9 @@ Concept of Parent Child
 A Child Can Only Have **One** Parent But The Parent Can Have **Multiple** Children  
 One To Many Realtionships
 ![Hierarchial](Tree.png)
+
 **Networking Model** Expanded On The **Hierarchical Model** Allowing **Many To Many Relationships**  
 Child Can Have **Multiple** Parents  
 ![Networking](Tree2.png)  
+
 ***Relational*** One of The Most Popular and Widely Used Models Out There
