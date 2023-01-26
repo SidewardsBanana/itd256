@@ -25,6 +25,7 @@ There Was A Trademark Issue On The Acronym **SEQUEL** So They Changed It To **St
 - Ex: Make Me A Grilled Cheese With Tomato
 - Happens Behind The Scenes
 - Powerful In Simplicity and Can Be More Productive
+- Functional or Logic Programming  
 
 ***Imperative*** Could Be Referred To As How It Will Happen
 
@@ -32,6 +33,7 @@ There Was A Trademark Issue On The Acronym **SEQUEL** So They Changed It To **St
 - Ex: You Say To Slice The Bread - Add The Cheese - Add The Tomato - Then Grill It
 - Know Whats Happening
 - More Flexability and Power But Can Get More Complicated
+- OOP, Procedural, or Structured Programming
 
 **SQL** Is Declarative  
 **Java** Is Imperative  
