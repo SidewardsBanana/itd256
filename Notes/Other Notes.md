@@ -54,10 +54,10 @@ A Way To Organize and Store Your Data **But** Does So Much More
 
 **Hierarchical Model** Stores Data In A Tree Like Structure  
 Concept of Parent Child  
-A Child Can Only Have One Parent But The Parnet Can Have Multiple Children  
+A Child Can Only Have **One** Parent But The Parent Can Have **Multiple** Children  
 One To Many Realtionships
 ![Hierarchial](Tree.png)
 **Networking Model** Expanded On The **Hierarchical Model** Allowing **Many To Many Relationships**  
-Child Can Have Multiple Parents  
+Child Can Have **Multiple** Parents  
 ![Networking](Tree2.png)  
 ***Relational*** One of The Most Popular and Widely Used Models Out There
