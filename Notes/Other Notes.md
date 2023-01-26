@@ -54,6 +54,7 @@ A Way To Organize and Store Your Data **But** Does So Much More
 
 **Hierarchical** Stores Data In A Tree Like Structure  
 Concept of Parent Child  
-A Child Can Only Have One Parent But The Parnet Can Have Multiple Children
+A Child Can Only Have One Parent But The Parnet Can Have Multiple Children  
+One To Many Realtionships
 ![Hierarchial](Tree.png)
 ***Relational*** One of The Most Popular and Widely Used Models Out There
