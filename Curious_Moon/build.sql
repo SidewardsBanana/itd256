@@ -1,5 +1,6 @@
-drop table if exists master_plan;
-create table master_plan(
+create schema if not exists import;
+drop table if exists import.master_plan;
+create table import.master_plan(
   start_time_utc text,
   duration text,
   date text,
@@ -12,5 +13,4 @@ create table master_plan(
   description text
 );
 
-COPY master_plan
-FROM '/home/jfallon/master_plan.csv' WITH DELIMITER ',' HEADER CSV;
+COPY import.master_plan FROM master_plan.csv WITH DELIMITER ',' HEADER CSV;
