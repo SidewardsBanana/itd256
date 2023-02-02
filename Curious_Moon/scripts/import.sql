@@ -1,3 +1,4 @@
+create schema if not exists import;
 drop table if exists master_plan;
 create table master_plan(
   start_time_utc text,
