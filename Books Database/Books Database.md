@@ -29,6 +29,6 @@ You Don't Need The Double Quotes For Everything But I Did It Just In Case Becaus
 The "Author". and The "Books". Is Used When You Have The Same Named Fields In Both Tables So It Specifies Which Table... (I Think)  
 I Don't Think I Need This But I'm Using It For Demonstration  
 
-## Picture of What Both Tables Joined Looks Like  
+## Picture Of What Both Tables Joined Looks Like  
 
 ![Added Picture of Both Tables Joined](Both_Tables_Joined.png)  
