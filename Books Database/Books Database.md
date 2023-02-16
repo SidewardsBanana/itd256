@@ -19,3 +19,12 @@ Not Sure If I Should Put The Database Name Online
 ## Picture Of Whats In The Books Table  
 
 ![Books Table](Books_Table.png)  
+
+## Joining The Two Tables  
+
+You Don't Need The Double Quotes For Everything But I Did It Just In Case Because I Was Getting An Error
+
+>``SELECT "Books"."Book Title", "Authors"."Author First", "Authors"."Author Last", "Books"."Publication Year" FROM "Authors" JOIN "Books" ON "Authors"."Author_ID" = "Books"."Author_ID";``  
+
+The "Author". and The "Books". Is Used When You Have The Same Named Fields In Both Tables So It Specifies Which Table... (I Think)  
+I Don't Think I Need This But I'm Using It For Demonstration  
