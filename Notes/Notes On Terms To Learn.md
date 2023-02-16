@@ -23,6 +23,11 @@ A **Library Classification System** That Allows **New** Books To Be Added To A L
 First Published In The US By A Person Named Melvil Dewey In *1876*  
 At First It Was Described In A **44**-Page Pamphlet, It Has Been Expanded To Various Volumes And Revised Through **23** Major Editions  
 The Most Recent Edition Was Last Printed In *2011*  
+Structured Around *10* **Main Classes** Covering The Entirety Of World Of Knowlege  
+Each Main Class Is Further Structured Into *10* Hierarchial Divisions, each having *10* Divisions Increasing In Specificity  
+That Means There Are *10* Main Classes, A Hundered Divisions, and A Thousand Sections  
+
+The **DDC** Is Ordered By Discipline And Not Subject
 **OCLC** Is A Non-Profit Cooperative That Serves Libraries And Currently Maintains The System And Licenses Online Access To WebDewey  
 
 The Decimal Number Classification Introduced Concepts Of Relative Index and Relative Location  
