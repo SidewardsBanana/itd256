@@ -22,7 +22,9 @@ You Don't Need The Double Quotes For Everything But I Did It Just In Case Becaus
 
 >``SELECT "Books"."Book Title", "Authors"."Author First", "Authors"."Author Last", "Books"."Publication Year" FROM "Authors" JOIN "Books" ON "Authors"."Author_ID" = "Books"."Author_ID";``  
 
-The "Author". and The "Books". Is Used When You Have The Same Named Fields In Both Tables So It Specifies Which Table... (I Think)  
+The "Author". and The "Books". Is Used When You Have The Same Named Fields In Both Tables So It Specifies Which Table...  
+
+
 I Don't Think I Need This But I'm Using It For Demonstration  
 
 ## Picture Of What Both Tables Joined Looks Like  
