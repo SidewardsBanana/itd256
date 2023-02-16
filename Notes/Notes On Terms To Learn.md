@@ -26,3 +26,9 @@ The Most Recent Edition Was Last Printed In *2011*
 **OCLC** Is A Non-Profit Cooperative That Serves Libraries And Currently Maintains The System And Licenses Online Access To WebDewey  
 
 The Decimal Number Classification Introduced Concepts Of Relative Index and Relative Location  
+
+## Library Of Congress (LOC Or LC?) Call Number? Classifications?
+
+**The Library Of Congress Classification System Groups Books Together With Similar Subjects By Their Call Numbers  
+There Are 21 Main LC Call Number Classes  
+Each Class Has Sub-Classes  
