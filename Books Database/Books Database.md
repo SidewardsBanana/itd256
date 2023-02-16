@@ -2,7 +2,7 @@
 
 ## Template On How To Connect To An Online Database  
 
->``psql -h <REMOTE HOST> -p <REMOTE PORT> -U <DB_USER> <DB_NAME>``    
+>``psql -h <REMOTE HOST> -p <REMOTE PORT> -U <DB_USER> <DB_NAME>``  
 
 ## Maybe Add How I Connect To Jeff's Online Database  
 
@@ -28,3 +28,5 @@ You Don't Need The Double Quotes For Everything But I Did It Just In Case Becaus
 
 The "Author". and The "Books". Is Used When You Have The Same Named Fields In Both Tables So It Specifies Which Table... (I Think)  
 I Don't Think I Need This But I'm Using It For Demonstration  
+
+## Picture of Both Tables Joined  
