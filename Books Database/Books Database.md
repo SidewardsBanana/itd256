@@ -11,3 +11,7 @@ Not Sure If I Should Put The Database Name Online
 ## Picture Of The Two Tables I Have  
 
 ![Both Tables](Tables.png)  
+
+## Picture Of Whats In The Authors Table  
+
+![Authors Table](Authors_Table.png)  
