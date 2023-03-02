@@ -4,6 +4,8 @@
 
 >``psql -h <REMOTE HOST> -p <REMOTE PORT> -U <DB_USER> <DB_NAME>``  
 
+**FYI**  You Do Not Need To Add Port If It’s On The Default Port(5432)  
+
 ## Picture Of The Two Tables I Have  
 
 ![Both Tables](Tables.png)  
