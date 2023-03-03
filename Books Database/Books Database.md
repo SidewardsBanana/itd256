@@ -2,7 +2,7 @@
 
 ## Template On How To Connect To An Online Postgresql Database  
 
->``psql -h <REMOTE HOST> -p <REMOTE PORT> -d <DB_NAME> -u <DB_USERNAME>``  
+>``psql -h <REMOTE HOST> -p <REMOTE PORT> -d <DB_NAME> -U <DB_USERNAME>``  
 or  
 >``psql -h <REMOTE HOST> -p <REMOTE PORT> -U <DB_USERNAME> <DB_NAME>``  
 
