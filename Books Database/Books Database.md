@@ -2,7 +2,9 @@
 
 ## Template On How To Connect To An Online Postgresql Database  
 
->``psql -h <REMOTE HOST> -p <REMOTE PORT> -U <DB_USER> <DB_NAME>``  
+>``psql -h <REMOTE HOST> -p <REMOTE PORT> -d <DB_NAME> -u <DB_USERNAME>``  
+or  
+>``psql -h <REMOTE HOST> -p <REMOTE PORT> -U <DB_USERNAME> <DB_NAME>``  
 
 **FYI**  You Do Not Need To Add Port If It’s On The Default Port(5432)  
 
